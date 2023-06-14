@@ -1,0 +1,14 @@
+wave
+webrtcvad
+array
+pydub
+subprocess
+shlex
+statistics
+librosa
+matplotlib.pyplot
+numpy
+soundfile
+pandas
+pyloudnorm
+moviepy
