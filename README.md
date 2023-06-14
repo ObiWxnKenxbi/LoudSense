@@ -24,7 +24,7 @@
 <p>The study's results demonstrate the promising performance of the Voice Activity Detection (VAD) system in accurately detecting speech segments within audio files, even in the presence of background noise. A perceptual analysis was conducted, aligning with the numerical evaluations and highlighting the consistency between the VAD system and source separation results.</p>
 
 <p>Although the overall performance was positive, challenges were encountered when background music with vocals or certain musical instruments was present. The VAD algorithm occasionally misclassified these instances as speech. However, these limitations did not significantly deviate from the results obtained through the previous source separation approach.</p>
-<p>For more information, check the <a href="results.html">results</a> page.</p>
+<p>For more information, check the <a href="https://github.com/ObiWxnKenxbi/LoudSense/tree/main/results">results</a> page.</p>
 
 <h2>Repository Structure</h2>
 <pre>
